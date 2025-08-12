@@ -1,5 +1,5 @@
 # HDBVIA - Human Detection & Biometrics Verification and Identification Algorithm  
-*Created by Evan O*
+*Created by Boxadmin1*
 
 A real-time webcam application that detects and visualizes human pose, hand landmarks, and face mesh landmarks using **MediaPipe** and **OpenCV**.
 
